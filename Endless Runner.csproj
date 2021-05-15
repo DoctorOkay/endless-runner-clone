@@ -1,0 +1,11 @@
+<Project Sdk="Godot.NET.Sdk/3.3.0">
+  <PropertyGroup>
+    <TargetFramework>net472</TargetFramework>
+    <RootNamespace>EndlessRunner</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="Objects\" />
+    <Folder Include="States\" />
+    <Folder Include="States\Player\" />
+  </ItemGroup>
+</Project>

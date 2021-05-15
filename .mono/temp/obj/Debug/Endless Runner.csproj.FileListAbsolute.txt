@@ -1,0 +1,8 @@
+/Users/dvidas/Repos/Godot/Endless Runner/.mono/temp/obj/Debug/Endless Runner.csprojAssemblyReference.cache
+/Users/dvidas/Repos/Godot/Endless Runner/.mono/temp/obj/Debug/Endless Runner.AssemblyInfoInputs.cache
+/Users/dvidas/Repos/Godot/Endless Runner/.mono/temp/obj/Debug/Endless Runner.AssemblyInfo.cs
+/Users/dvidas/Repos/Godot/Endless Runner/.mono/temp/obj/Debug/Endless Runner.csproj.CoreCompileInputs.cache
+/Users/dvidas/Repos/Godot/Endless Runner/.mono/temp/bin/Debug/Endless Runner.dll
+/Users/dvidas/Repos/Godot/Endless Runner/.mono/temp/bin/Debug/Endless Runner.pdb
+/Users/dvidas/Repos/Godot/Endless Runner/.mono/temp/obj/Debug/Endless Runner.dll
+/Users/dvidas/Repos/Godot/Endless Runner/.mono/temp/obj/Debug/Endless Runner.pdb

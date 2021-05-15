@@ -1,0 +1,40 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="States/Player/JumpState.cs">
+    <Files>
+      <File FileName="Main.cs" Line="15" Column="10" />
+      <File FileName="Objects/Obstacle.cs" Line="15" Column="20" />
+      <File FileName="States/IGameStates.cs" Line="8" Column="35" />
+      <File FileName="States/RunningState.cs" Line="43" Column="75" />
+      <File FileName="Objects/Player.cs" Line="36" Column="40" />
+      <File FileName="States/GameContext.cs" Line="34" Column="48" />
+      <File FileName="States/IPlayer.cs" Line="8" Column="35" />
+      <File FileName="States/Player/IdleState.cs" Line="26" Column="68" />
+      <File FileName="States/Player/JumpState.cs" Line="1" Column="1" />
+      <File FileName="States/GameStartState.cs" Line="12" Column="32" />
+      <File FileName="States/Player/InvertedState.cs" Line="1" Column="1" />
+      <File FileName="States/Player/InvertedJumpState.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Endless Runner" expanded="True">
+            <Node name="Endless Runner" expanded="True">
+              <Node name="Objects" expanded="True" />
+              <Node name="States" expanded="True">
+                <Node name="Player" expanded="True">
+                  <Node name="JumpState.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
